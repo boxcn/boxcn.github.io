@@ -1,0 +1,10 @@
+
+http://boxcn.github.io/404.html
+http://boxcn.github.io/archive.html
+http://boxcn.github.io/atom.xml
+http://boxcn.github.io/categories.html
+http://boxcn.github.io/index.html
+http://boxcn.github.io/rss.xml
+http://boxcn.github.io/sitemap.txt
+http://boxcn.github.io/tags.html
+http://boxcn.github.io/timing.html
