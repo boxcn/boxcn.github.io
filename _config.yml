@@ -1,0 +1,15 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /:categories/:year-:month-:day/:title.html
+paginate_path: page/:num
+
+blog:
+    name : BoxCn Blog
+    description : 不忘初心，才能始终。
+    title : BoxCn Blog - 盒子的个人博客
+    url : http://boxcn.github.io
+author:
+    name : 盒子
+    email : alll@sina.cn
+    weibo : http://weibo.com/scripthome 
+    github : https://github.com/boxcn

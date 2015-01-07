@@ -1,8 +1,10 @@
----
-# Remember to set blog.url in your _config.yml file!
-title : Sitemap
----
-{% for page in site.pages %}
-{{site.blog.url}}{{ page.url }}{% endfor %}
-{% for post in site.posts %}
-{{site.blog.url}}{{ post.url }}{% endfor %}
+
+http://boxcn.github.io/404.html
+http://boxcn.github.io/archive.html
+http://boxcn.github.io/atom.xml
+http://boxcn.github.io/categories.html
+http://boxcn.github.io/index.html
+http://boxcn.github.io/rss.xml
+http://boxcn.github.io/sitemap.txt
+http://boxcn.github.io/tags.html
+http://boxcn.github.io/timing.html
