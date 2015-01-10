@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java MVC设计模式
-categories: Tools
+categories: Java
 tags: Java MVC 
 keywords: Java,MVC
 tagline: Supporting tagline
