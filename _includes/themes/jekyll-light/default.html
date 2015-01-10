@@ -23,28 +23,6 @@
   <div id="blog">
     <div class="main">
         {{ content }}
-        <div id="caipiao">
-        {% if page.index != true %}
-            <!-- caipiao.163.com share code -->
-			<a target="_blank" href="http://caipiao.163.com/invite.html?p=20150106999751&t=p17"><img src="http://img3.126.net/caipiao/promote/960x60.jpg?110111"/></a>
-        {% endif %}
-        </div>
-		<!--搜狐高速版，加载速度快，使用前需测试页面的兼容性-->
-		<div id="SOHUCS"></div>
-		<script>
-		  (function(){
-			var appid = 'cyryUTASG',
-			conf = 'prod_e1b13ada8607af85ff8b96c89add5ca8';
-			var doc = document,
-			s = doc.createElement('script'),
-			h = doc.getElementsByTagName('head')[0] || doc.head || doc.documentElement;
-			s.type = 'text/javascript';
-			s.charset = 'utf-8';
-			s.src =  'http://assets.changyan.sohu.com/upload/changyan.js?conf='+ conf +'&appid=' + appid;
-			h.insertBefore(s,h.firstChild);
-			window.SCS_NO_IFRAME = true;
-		  })()
-		</script>                
         {% include themes/jekyll-light/footer.html %}
         {% include themes/jekyll-light/sidebar.html %}
         <!-- Google Analytics -->
@@ -60,11 +38,6 @@
   </div>
   <!--百度分享代码--> 
 	<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":["qzone","tsina","weixin","tqq","sqq","mail","fbook"],"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"6","bdPos":"right","bdTop":"122.5"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
-  <!--百度统计代码-->
-  <script type="text/javascript">
-	var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-	document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F2a4602c681bd9122c27932a98a740b4b' type='text/javascript'%3E%3C/script%3E"));
-	</script>
   <div id="top"><a id="rocket" href="javascript:;" title="返回顶部"><i></i></a></div>
 </body>
 </html>

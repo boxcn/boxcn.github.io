@@ -22,7 +22,12 @@
 <div class="post-main">
 {{ content }}
 </div>
+<div id="license">
+	{% if page.index != true %}<b>这篇文章『 <a href="{{ site.blog.url }}{{ page.url }}" target="_blank">{{ page.title }}</a> 』来源于 <a href="{{ site.blog.url }}" target="_blank">{{ site.blog.name }}</a>，欢迎分享，转载请保留出处！</b>
+	<br><b>作者：{{ site.author.name }}</b><br><b>本文地址：<a href="{{ site.blog.url }}{{ page.url }}" target="_blank">{{ site.blog.url }}{{ page.url }}</a>{% endif %}</b><br>	
+</div>
 <div class="pagination">
+
 	{% if page.previous %}
 	<a class="pagination-item newer" href="{{ BASE_PATH }}{{ page.previous.url }}"><i class="fa fa-arrow-left"></i>&nbsp;&nbsp;{{ page.previous.title }}</a>
 	{% elsif page.index != true %}
@@ -35,3 +40,25 @@
 	{% endif %}
 
 </div>
+{% if page.index != true %}
+	<!--搜狐高速版，加载速度快，使用前需测试页面的兼容性-->
+	<div id="SOHUCS"></div>
+	<script>
+	  (function(){
+		var appid = 'cyryUTASG',
+		conf = 'prod_e1b13ada8607af85ff8b96c89add5ca8';
+		var doc = document,
+		s = doc.createElement('script'),
+		h = doc.getElementsByTagName('head')[0] || doc.head || doc.documentElement;
+		s.type = 'text/javascript';
+		s.charset = 'utf-8';
+		s.src =  'http://assets.changyan.sohu.com/upload/changyan.js?conf='+ conf +'&appid=' + appid;
+		h.insertBefore(s,h.firstChild);
+		window.SCS_NO_IFRAME = true;
+	  })()
+	</script> 
+	<div id="caipiao">
+		<!-- caipiao.163.com share code -->
+		<a target="_blank" href="http://caipiao.163.com/invite.html?p=20150106999751&t=p17"><img src="http://img3.126.net/caipiao/promote/960x60.jpg?110111"/></a>
+	</div>
+{% endif %}
