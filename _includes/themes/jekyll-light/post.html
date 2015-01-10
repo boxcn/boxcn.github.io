@@ -26,9 +26,9 @@
 {{ content }}
 </div>
 <div id="license">
-	{% if page.index != true %}<b>这篇文章『 <a href="{{ site.blog.url }}{{ page.url }}" target="_blank">{{ page.title }}</a> 』来源于 <a href="{{ site.blog.url }}" target="_blank">{{ site.blog.name }}</a>，欢迎分享，转载请保留出处！</b>
-	<br><b>作者：{{ site.author.name }}</b><br><b>本文地址：<a href="{{ site.blog.url }}{{ page.url }}" target="_blank">{{ site.blog.url }}{{ page.url }}</a>{% endif %}</b><br>	
-</div>
+	{% if page.index != true %}<b>这篇文章『 <a href="{{ site.blog.url }}{{ page.url }}" target="_blank">{{ page.title }}</a> 』来源于 <a href="{{ site.blog.url }}" target="_blank">{{ site.blog.name }}</a>，欢迎分享本文，转载请保留出处！</b>
+	<br><b>作者：{{ site.author.name }}</b><br><b>本文地址：<a href="{{ site.blog.url }}{{ page.url }}" target="_blank">{{ site.blog.url }}{{ page.url }}</a>{% endif %}</b>	
+</div><br>
 <div class="pagination">
 
 	{% if page.previous %}
