@@ -12,6 +12,8 @@ title: 所有文章
         <i class="fa fa-calendar"></i>
         {{ post.date | date: "%Y" }}年{{ post.date | date: "%m" }}月{{ post.date | date: "%d" }}日
         <i class="space"></i>
+		<i class="fa fa-pencil"></i>
+		<a class="post-category" href="{{ site.blog.url }}">{{ site.author.name }}</a>
         <i class="fa fa-tags"></i>
         <a class="post-category" href="/category.html#{{ post.categories }}">{{ post.categories }}</a>
 		{% if post.tags %}

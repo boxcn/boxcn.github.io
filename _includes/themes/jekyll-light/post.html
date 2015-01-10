@@ -5,6 +5,8 @@
     <i class="fa fa-calendar"></i>
     {{ page.date | date: "%Y" }}年{{ page.date | date: "%m" }}月{{ page.date | date: "%d" }}日
     <i class="space"></i>
+	<i class="fa fa-pencil"></i>
+	<a class="post-category" href="{{ site.blog.url }}">{{ site.author.name }}</a>
 	{% endif %}
 	{% if page.categories %}
 		<i class="fa fa-tag"></i>
@@ -16,6 +18,7 @@
     	<a class="post-category" href="/tags.html#{{ tag }}">{{ tag }}</a>
 		{% endfor %}
 	{% endif %}
+	
 	<hr id="line"/>
   </p>
 </header>
@@ -23,9 +26,9 @@
 {{ content }}
 </div>
 <div id="license">
-	{% if page.index != true %}<b>这篇文章『 <a href="{{ site.blog.url }}{{ page.url }}" target="_blank">{{ page.title }}</a> 』来源于 <a href="{{ site.blog.url }}" target="_blank">{{ site.blog.name }}</a>，欢迎分享本文，转载请保留出处！</b>
+	{% if page.index != true %}<b>这篇文章『 <a href="{{ site.blog.url }}{{ page.url }}" target="_blank">{{ page.title }}</a> 』来源于 <a href="{{ site.blog.url }}" target="_blank">{{ site.blog.name }}</a>，欢迎分享，转载请保留出处！</b>
 	<br><b>作者：{{ site.author.name }}</b><br><b>本文地址：<a href="{{ site.blog.url }}{{ page.url }}" target="_blank">{{ site.blog.url }}{{ page.url }}</a>{% endif %}</b><br>	
-</div><br>
+</div>
 <div class="pagination">
 
 	{% if page.previous %}
