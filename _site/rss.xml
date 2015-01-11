@@ -5,8 +5,8 @@
         <description>BoxCn's Blog - 盒子的个人博客 - 盒子</description>
         <link>http://boxcn.github.io</link>
         <link>http://boxcn.github.io</link>
-        <lastBuildDate>2015-01-10T17:40:13+08:00</lastBuildDate>
-        <pubDate>2015-01-10T17:40:13+08:00</pubDate>
+        <lastBuildDate>2015-01-12T00:28:39+08:00</lastBuildDate>
+        <pubDate>2015-01-12T00:28:39+08:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -76,8 +76,8 @@
 
 &lt;p&gt;MVC设计模式是一个很好创建软件的途径，它所提倡的一些原则，像内容和显示互相分离可能比较好理解。但是如果你要隔离模型、视图和控制器的构件，你可能需要重新思考你的应用程序，尤其是应用程序的构架方面。如果你肯接受MVC，并且有能力应付它所带来的额外的工作和复杂性，MVC将会使你的软件在健壮性，代码重用和结构方面上一个新的台阶。&lt;/p&gt;
 </description>
-                <link>http://boxcn.github.io/tools/2014-01-10/Java-MVC-Mode.html</link>
-                <guid>http://boxcn.github.io/tools/2014-01-10/Java-MVC-Mode</guid>
+                <link>http://boxcn.github.io/java/2014-01-10/Java-MVC-Mode.html</link>
+                <guid>http://boxcn.github.io/java/2014-01-10/Java-MVC-Mode</guid>
                 <pubDate>2014-01-10T00:00:00+08:00</pubDate>
         </item>
 

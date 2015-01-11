@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://boxcn.github.io/" rel="self"/>
  <link href="http://boxcn.github.io"/>
- <updated>2015-01-10T17:40:13+08:00</updated>
+ <updated>2015-01-12T00:28:39+08:00</updated>
  <id>http://boxcn.github.io</id>
  <author>
    <name>盒子</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Java MVC设计模式</title>
-   <link href="http://boxcn.github.io/tools/2014-01-10/Java-MVC-Mode.html"/>
+   <link href="http://boxcn.github.io/java/2014-01-10/Java-MVC-Mode.html"/>
    <updated>2014-01-10T00:00:00+08:00</updated>
-   <id>http://boxcn.github.io/tools/2014-01-10/Java-MVC-Mode</id>
+   <id>http://boxcn.github.io/java/2014-01-10/Java-MVC-Mode</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;MVC(Model View Control)模型－视图－控制器&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/pictures/Java/Java_MVC_1.png&quot; /&gt;&lt;/p&gt;
