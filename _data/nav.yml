@@ -10,10 +10,10 @@
   icon: fa fa-tags
   title: 分类
   
-- href: /music.html
-  icon: fa fa-music
-  title: 放松一下
-
 - href: /tags.html
   icon: fa fa-paperclip
   title: 标签
+  
+  - href: /music.html
+  icon: fa fa-music
+  title: 放松一下
