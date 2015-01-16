@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll本地环境故障
+title: Jekyll本地环境故障及解决方法
 categories: Tools
 tags: Git Jekyll 
 keywords: Jekyll,本地环境
@@ -10,7 +10,7 @@ tagline: Supporting tagline
 
 如何搭建本地环境，百度一下网上很多教程。不多介绍了。
 
-之前自己在本地搭建了一套环境，不知道为什么，突然就不能正常运行了。出现很多莫名奇怪的问题，大概意思是Ruby解释器故障。
+之前自己在本地搭建了一套环境，不知道为什么，突然就不能正常运行了。出现很多莫名奇怪的问题，大概意思是Ruby解释器不能识别，Gem不正确。
 
 难道是安装的软件版本、Gem自动更新了？。
 
