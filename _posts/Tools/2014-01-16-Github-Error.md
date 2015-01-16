@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll本地环境莫名不正常
+title: Jekyll本地环境故障
 categories: Tools
 tags: Git Jekyll 
 keywords: Jekyll,本地环境
