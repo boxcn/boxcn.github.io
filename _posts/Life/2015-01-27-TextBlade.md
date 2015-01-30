@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 专为手机打造的键盘，打字速度比用电脑键盘都快
+title: 专为手机打造的键盘
 categories: Life
 tags: TextBlade WayTools 
 keywords: 智能设备,手机键盘
