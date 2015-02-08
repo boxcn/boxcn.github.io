@@ -2,8 +2,8 @@
 layout: post
 title: 孔子学琴的启示
 categories: Life
-tags: 孔子 专业 完美 
-keywords: 孔子,专业,完美
+tags: 专业 完美 
+keywords:专业,完美
 tagline: Supporting tagline
 ---
 
