@@ -7,9 +7,9 @@ keywords: 人生,老虎
 tagline: Supporting tagline
 ---
 
-<img src="/assets/pictures/Life/20150208_Boxcn.jpg">
-
 从《佛说譬喻经》来看人生之实相及后生一大事。释尊在《佛譬喻经》中，以一段有名的譬喻，向我们开示“人生究竟是什么？”，这譬喻是这样的：
+
+<img src="/assets/pictures/Life/20150208_Boxcn.jpg">
 
 在一个寂寞的秋天黄昏，无尽广阔的荒野中，有一位旅人蹒跚地赶着路。突然，旅人发现薄暗的野道中，散落着一块块白白的东西，加以注意之下，原来是人的白骨。
 

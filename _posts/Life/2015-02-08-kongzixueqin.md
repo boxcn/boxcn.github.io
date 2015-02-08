@@ -7,9 +7,9 @@ keywords: 孔子,专业,完美
 tagline: Supporting tagline
 ---
 
-<img src="/assets/pictures/Life/20150208_boxcn.png">
-
 从前，孔子跟从师襄子学琴。师襄子教了一首曲子后，孔子每日弹奏，丝毫没有厌倦。过了十天，师襄子说：“这首曲子你弹得很不错，可以学新曲子了。”孔子说：“我虽学会了曲谱，可还没有掌握一些高难度的技巧。”
+
+<img src="/assets/pictures/Life/20150208_boxcn.png">
 
 又过了许多天，师襄子说：“你已掌握了弹奏技巧，可以学新曲子了。”孔子说：“我还没有品味出这首曲子的神韵。”
 
