@@ -13,5 +13,6 @@ tagline: Supporting tagline
 见成功的面面容易，拉成功的手手很难。
 
 所以，当成功在望的时候，其实是更需要努力的时候。
+
 <img src="/assets/pictures/Life/2015-3-9_BoxCn.jpg">
 
