@@ -29,7 +29,7 @@ tagline: Supporting tagline
 <embed playerid="musicplayer_97351427030071396" flashvars="type=art&amp;aid=dbc973f50102vnl2&amp;songlist=100239878&amp;sn=0&amp;auto=true" wmode="transparent" scale="noscale" quality="high" bgcolor="#000" name="xx0" src="http://music.sina.com.cn/shequ/player/sinablog/blogPlayer.swf" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" height="23px" width="318px"><br>
 
 > **《当你老了》（中国好歌曲现场版歌词）**
-
+>
 > 当你老了 头发白了
 >
 > 睡意昏沉
