@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《当你老了》，一首真正让人感动的音乐
+title: 《当你老了》一首真正让人感动的音乐
 categories: Life
 tags: 爱情 亲情 
 keywords: 爱情,亲情
