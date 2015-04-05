@@ -65,6 +65,6 @@ tagline: Supporting tagline
 
 这首歌是唱给你的
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="http://music.163.com/outchain/player?type=2&id=26090100&auto=0&height=32"></iframe>
+<embed src="http://music.163.com/style/swf/widget.swf?sid=26090100&type=2&auto=0&width=278&height=32" width="298" height="52"  allowNetworking="all">
 
 **这首歌写的真好，父母老了，我们也会老，有苍伤有亲情，自然规律呀，抗拒不了，只有珍惜当下，孝敬父母，珍爱自己。**
