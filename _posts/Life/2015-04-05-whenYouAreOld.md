@@ -6,9 +6,10 @@ tags: 爱情 亲情
 keywords: 爱情,亲情
 tagline: Supporting tagline
 ---
-<embed playerid="musicplayer_97351427030071396" flashvars="type=art&amp;aid=dbc973f50102vnl2&amp;songlist=100239878&amp;sn=0&amp;auto=true" wmode="transparent" scale="noscale" quality="high" bgcolor="#000" name="xx0" src="http://music.sina.com.cn/shequ/player/sinablog/blogPlayer.swf" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" height="23px" width="318px"><br>
 
 《当你老了》是[赵照](http://baike.baidu.com/view/2026785.htm)一首2012年创作的原创歌曲。歌词出自于爱尔兰诗人[叶芝](http://baike.baidu.com/view/7846.htm)的同名诗作，原作是作者[叶芝](http://baike.baidu.com/view/7846.htm)对一直爱慕女友[茅德·冈](http://baike.baidu.com/view/5510268.htm)的纯情写照，追求一辈子的爱情。而赵照因为一些家里的变故，想到自己想到自己的母亲时偶然遇到这首诗，于是《当你老了》就创作出来了。在2014年第一季《[中国好歌曲](http://baike.baidu.com/view/10392638.htm)》的舞台上，赵照2次演唱了这首歌曲，全国媒体评审团给予了最高分，却并没有进入决赛。尽管如此，仍被评为《好歌曲》年度最走心歌曲。
+
+<embed playerid="musicplayer_97351427030071396" flashvars="type=art&amp;aid=dbc973f50102vnl2&amp;songlist=100239878&amp;sn=0&amp;auto=true" wmode="transparent" scale="noscale" quality="high" bgcolor="#000" name="xx0" src="http://music.sina.com.cn/shequ/player/sinablog/blogPlayer.swf" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" height="23px" width="318px"><br>
 
 <img src="/assets/pictures/Life/Boxcn_whenYouAreOld_4.jpg">
 
