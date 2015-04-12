@@ -6,6 +6,6 @@ tags: 海淘
 keywords: 海淘
 tagline: Supporting tagline
 ---
-[<img src="/assets/pictures/Life/2015-4-12_BoxCn_ZYZG.jpg">](http://www.uszcn.com/ "海外购物，转运中国！")
+<img src="/assets/pictures/Life/2015-4-12_BoxCn_ZYZG.jpg">
 
 获取邀请码地址：[http://group.haitaobei.com/group/topic/554/p5](http://group.haitaobei.com/group/topic/554/p5)
