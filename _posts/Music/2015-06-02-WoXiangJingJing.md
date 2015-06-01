@@ -7,7 +7,7 @@ keywords: 搞笑
 tagline: Supporting tagline
 ---
 
-听说最近好多男人都想静静，完整版 静静，婷婷，雯雯，冰冰，柔柔，美女害死人！ 
+> 听说最近好多男人都想静静，完整版 静静，婷婷，雯雯，冰冰，柔柔，美女害死人！ 
 > 
 > 老公心情不好，一个劲的喝闷酒，老婆问：你在干嘛？老公说：别跟我说话，我想静静！ 老婆转过身一个大嘴巴子，问：他妈的静静是谁？真的，人生有时候想静静都难。
 > 
@@ -20,5 +20,6 @@ tagline: Supporting tagline
 > 老公的脸火辣辣的，老婆问还有啥想法？老公说没了，现在我只想揉揉。啪又一耳光！人生有时痛了只能放在心里！
 > 
 > 火辣辣的脸那，过了一会老公笑了，老婆问你笑啥？老公说揍这逼样了我想乐乐还不行么？老婆上去就一个大嘴巴子：还他妈的有个乐乐！这就是人生憋屈着吧，有招想去，没招死去。
-
-<embed src="http://music.163.com/style/swf/widget.swf?sid=30053956&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+> 
+> 
+> <embed src="http://music.163.com/style/swf/widget.swf?sid=30053956&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
