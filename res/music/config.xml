@@ -10,7 +10,7 @@
 	lists = "list_1.xml"
 	
 	src_handler = "" 
-	lrc_handler = ""
+	lrc_handler = "./lrc/1.pybk.lrc"
 
 	skin_id = "2"
 
@@ -21,7 +21,7 @@
 	sound_sample = "true"
 	mixer_displace = "true"
 	mixer_filter = "true"
-	mixer_src = "./plugins/mixer3d.swf"
+	mixer_src = "./plugins/equalizer.swf"
 	
 	counter = ""
 />
