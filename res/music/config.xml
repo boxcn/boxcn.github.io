@@ -7,10 +7,10 @@
 	skins = "/res/music/skins/kbsplayer.swf"
 	plugins = ""
 	backgrounds = ""
-	lists = "/res/music/list_1.xml"
+	lists = "list_1.xml"
 	
 	src_handler = "" 
-	lrc_handler = "/res/music/lrc/1.朋友别哭.lrc"
+	lrc_handler = ""
 
 	skin_id = "2"
 
