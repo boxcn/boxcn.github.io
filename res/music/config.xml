@@ -10,7 +10,7 @@
 	lists = "list_1.xml"
 	
 	src_handler = "" 
-	lrc_handler = "/res/music/lrc/朋友别哭.lrc"
+	lrc_handler = "/res/music/lrc/1.朋友别哭.lrc"
 
 	skin_id = "2"
 
