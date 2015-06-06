@@ -1,7 +1,7 @@
 ﻿<cmp 
 	name = "『盒子博客』单曲欣赏" 
 	link = "http://boxcn.github.com/" 
-	description = ""
+	description = " "
 	logo = "{src:logo.png,xywh:[10R,10R,0,0]}"
 	
 	skins = "./skins/kbsplayer.swf"
