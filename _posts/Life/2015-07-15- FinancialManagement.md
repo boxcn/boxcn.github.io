@@ -8,7 +8,7 @@ tagline: Supporting tagline
 ---
 
 <embed src="http://www.xiancity.cn/topic/zt/daji/daji.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" height="50" width="645">
-<a href="http://www.xiancity.cn/topic/zt/xianlie.html" target="_blank"></a></div></td>
+<a href="http://www.xiancity.cn/topic/zt/xianlie.html" target="_blank"></a>
 
 <div class="article article_16" id="artibody">
 
@@ -390,7 +390,3 @@ tagline: Supporting tagline
        <td>北京，成都，内蒙古，宁波，深圳</td>
 </tr>
 </tbody>
-</table><!--end_to_img--><!-- news_keyword_pub,stock,sh600000 -->
-<!-- publish_helper_end -->
-
-<div style="display: block; width: 200px; height: 300px; margin: 10px 20px 10px 0px; float: left; overflow: hidden; clear: both; padding: 4px; border: 1px solid rgb(205, 205, 205); background: rgb(255, 255, 255) none repeat scroll 0% 0%;" class="otherContent_01" id="ad_44099"><ins style="display: block; overflow: hidden; text-decoration: none;" data-ad-offset-top="0" data-ad-offset-left="0" class="sinaads sinaads-done" id="Sinads49447" data-ad-pdps="PDPS000000044099" data-ad-status="done"><ins style="text-decoration:none;margin:0px auto;display:block;overflow:hidden;width:200px;height:300px;"><div style="width:200px;height:300px;position:relative;overflow:hidden;"><embed wmode="opaque" flashvars="clickTAG=http%3A%2F%2Fsax.sina.com.cn%2Fdsp%2Fclick%3Ft%3DMjAxNS0wNy0xNSAxOToyODoxMQkxMjIuNzcuNDcuMTY5CTI3LjI0LjE0MS4xMTFfMTM5ODYwMTg4NS4xOTc0MTMJNzIzZmNjNTQtNDMyMi00ZmY1LWE2NTAtYWY0ZjRjMTFkZmI1CTQ2MzMxCTUwMzc4NjM1NzFfUElOUEFJLUNQQwkxMjkxNgkxMjM4NzYJNi44MTA0MzRFLTQJMQl0cnVlCVBEUFMwMDAwMDAwNDQwOTkJMjEwODA1CVBDCWZsYXNoCTAJMQktMQ%3D%3D%26userid%3D27.24.141.111_1398601885.197413%26p%3DbFZhq6ZGS3KhYzT8XMvi%252f%252bq6MtlegtQGtovAgQ%253d%253d%26url%3Dhttp%253a%252f%252fsax.sina.com.cn%252fclick%253ftype%253d2%2526t%253dNmM1NjYxYWItYTY0Ni00YjcyLWExNjMtMzRmYzVjY2JlMmZmCTE3CVBEUFMwMDAwMDAwNDQwOTkJMjEwODA1CTEJUlRCCS0%25253d%2526id%253d17%2526url%253dhttp%25253a%25252f%25252fedu.hxz.com%25252fces%25252fBranch6%25252findex.html%25253fccid%25253dZ2ces200300%2526sina_sign%253d49057dfc5831c10c%26sign%3Dff52b6e93acc2c56" name="sinaadtk_swf_uid_2" src="http://d4.sina.com.cn/pfpghc/7e1c8889c8664a1f8d40343868396467.swf" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" align="middle" height="300px" width="200px"><a style="position:absolute;background:#fff;opacity:0;filter:alpha(opacity=0);width:200px;height:300px;left:0;top:0" href="http://sax.sina.com.cn/dsp/click?t=MjAxNS0wNy0xNSAxOToyODoxMQkxMjIuNzcuNDcuMTY5CTI3LjI0LjE0MS4xMTFfMTM5ODYwMTg4NS4xOTc0MTMJNzIzZmNjNTQtNDMyMi00ZmY1LWE2NTAtYWY0ZjRjMTFkZmI1CTQ2MzMxCTUwMzc4NjM1NzFfUElOUEFJLUNQQwkxMjkxNgkxMjM4NzYJNi44MTA0MzRFLTQJMQl0cnVlCVBEUFMwMDAwMDAwNDQwOTkJMjEwODA1CVBDCWZsYXNoCTAJMQktMQ==&amp;userid=27.24.141.111_1398601885.197413&amp;p=bFZhq6ZGS3KhYzT8XMvi%2f%2bq6MtlegtQGtovAgQ%3d%3d&amp;url=http%3a%2f%2fsax.sina.com.cn%2fclick%3ftype%3d2%26t%3dNmM1NjYxYWItYTY0Ni00YjcyLWExNjMtMzRmYzVjY2JlMmZmCTE3CVBEUFMwMDAwMDAwNDQwOTkJMjEwODA1CTEJUlRCCS0%253d%26id%3d17%26url%3dhttp%253a%252f%252fedu.hxz.com%252fces%252fBranch6%252findex.html%253fccid%253dZ2ces200300%26sina_sign%3d49057dfc5831c10c&amp;sign=ff52b6e93acc2c56" target="_blank"></a></div></ins></ins></div><div style="font-size: 0px; height: 0px; clear: both;"></div></div>
