@@ -78,7 +78,7 @@ var Game = function(){
 				div.style.left = '96px';
 				div.style.position = 'absolute';
 				div.style.zIndex = 9999;
-				div.innerHTML = '作者blog: <a href="http://www.alloyteam.com/author/svenzeng/" target="_blank">http://www.alloyteam.com/author/svenzeng/</a>'
+				div.innerHTML = '<a href="http://boxcn.github.io/life/2015-07-19/%20StreetFighter.html"><img src="images/index.gif" border="0"></a><br>作者blog: <a href="http://www.alloyteam.com/author/svenzeng/" target="_blank">http://www.alloyteam.com/author/svenzeng/</a>'
 				document.body.appendChild( div );
 
 	
